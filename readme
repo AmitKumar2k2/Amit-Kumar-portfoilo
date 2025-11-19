@@ -17,8 +17,7 @@ This is my personal portfolio site designed to:
 
 ## ✨ Features
 
-- ⚡ Smooth scrolling using **Locomotive Scroll**  
-- 🎮 Interactive 3D objects using **Spline 3D**  
+- ⚡ Smooth scrolling using **Locomotive Scroll**   
 - 💻 Fully **responsive design** – adapts to all screen sizes  
 - 💡 Clean UI/UX focused on performance and minimalism  
 - 🧠 Well-structured sections:  
@@ -50,7 +49,6 @@ This is my personal portfolio site designed to:
 - **CSS3** with media queries
 - **Vanilla JavaScript**
 - **Locomotive Scroll** – [GitHub](https://github.com/locomotivemtl/locomotive-scroll)
-- **Spline 3D** – [https://spline.design](https://spline.design)
 
 ---
 
